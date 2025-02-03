@@ -1,0 +1,14 @@
+{
+  "selected_features": [
+    "Mother's qualification",
+    "Father's qualification",
+    "Tuition fees up to date",
+    "Age at enrollment",
+    "Inflation rate",
+    "2nd_sem_perf_ratio",
+    "Failed units ratio",
+    "Late_enrollment",
+    "Course_Graduate_prob",
+    "Application mode_Enrolled_prob"
+  ]
+}
